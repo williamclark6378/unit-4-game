@@ -1,0 +1,49 @@
+body {
+    background: lightblue;
+}
+
+.row-head {
+    background: sienna;
+    color: white;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.row-inst {
+    background: white;
+    color: green;
+    margin-left: 20px;
+}
+
+.row-target {
+    background: green;
+    color: purple;
+    margin-left: 35px;
+    padding: 20px;
+}
+
+.row-wins-losses {
+    background: aqua;
+    color: purple;
+    margin-left: 20px;
+}
+
+.row-gems {
+    margin-left: 6px;
+}
+
+.row-score-text {
+    Margin-left: 20px;
+    background: teal;
+    width: 700px;
+    color: white;
+}
+
+.row-your-score {
+    width: 350px;
+    height: 180px;
+    background: teal;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
